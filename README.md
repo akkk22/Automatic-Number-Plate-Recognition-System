@@ -22,3 +22,6 @@ Once you're in the directory containing your webapp.py file, run the following c
 
 Following these steps should launch your Flask web application, allowing you to access it through a web browser or any other HTTP client.
 
+## Note
+This project was developed as part of a team-based hackathon/EPICS project.  
+The repository reflects collaborative contributions.
